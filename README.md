@@ -4,7 +4,7 @@
 
 This repository implements **LEAD** (Latent Entropy-Aware Decoding), a training-free decoding strategy that mitigates hallucinations in Multimodal Large Reasoning Models (MLRMs) by adaptively switching between soft and hard decoding modes based on real-time latent entropy signals.
 
-![LEAD Framework](asset/lead.png)
+![LEAD Framework](/root/autodl-tmp/mlrm-LEAD/figure/method.pdf)
 
 *Overview of the LEAD framework. LEAD monitors the entropy of token probability distributions during autoregressive generation. When entropy rises above a threshold, the decoder switches to **soft mode** — blending probability-weighted embeddings with anchor tokens to encourage exploratory reasoning. When entropy drops, it reverts to **normal mode** — using standard discrete token selection for precise, committed generation. This entropy-driven soft/hard switching mechanism reduces hallucinations without any additional training or external tools.*
 
