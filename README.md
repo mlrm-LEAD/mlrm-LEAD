@@ -40,7 +40,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Zhongxing-XU/LEAD.git
+git clone https://github.com/mlrm-LEAD/mlrm-LEAD
 cd LEAD
 ```
 
