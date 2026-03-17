@@ -203,4 +203,4 @@ This project is released under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 💬 Acknowledgments
 
-We thank the contributors of open-source projects [Transformers](https://github.com/huggingface/transformers), [Qwen3](https://github.com/QwenLM/Qwen3), and [Soft-Thinking](https://github.com/eric-ai-lab/Soft-Thinking).
+We thank the contributors of open-source projects [Soft-Thinking](https://github.com/eric-ai-lab/Soft-Thinking), [SwiReasoning](https://github.com/sdc17/SwiReasoning), and [Coconut](https://github.com/facebookresearch/coconut).
