@@ -5,7 +5,7 @@
 ### Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding
 
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg)]()
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2603.13366)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Project Page](https://img.shields.io/badge/Project-Page-orange.svg)](https://zhongxing-xu.github.io/LEAD)
 
