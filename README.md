@@ -41,7 +41,7 @@
 
 ```bash
 git clone https://github.com/mlrm-LEAD/mlrm-LEAD
-cd LEAD
+cd mlrm-LEAD
 ```
 
 ### 2. Install Dependencies
