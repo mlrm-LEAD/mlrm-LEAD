@@ -185,11 +185,11 @@ LEAD/
 If this project is helpful to your research, please cite our paper:
 
 ```bibtex
-@inproceedings{xu2026thinking,
-      title     = {Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding},
-      author    = {Zhongxing, Xu and Zhonghua, Wang and Zhe, Qian and Dachuan, Shi and Feilong, Tang and Ming, Hu and Shiyan, Su and Xiaocheng, Zou and Wei, Feng and Dwarikanath, Mahapatra and Yifan, Peng and Mingquan, Lin and Zongyuan, Ge},
-      booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference},
-      year      = {2026}
+@article{xu2026thinking,
+  title={Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding},
+  author={Xu, Zhongxing and Wang, Zhonghua and Qian, Zhe and Shi, Dachuan and Tang, Feilong and Hu, Ming and Su, Shiyan and Zou, Xiaocheng and Feng, Wei and Mahapatra, Dwarikanath and others},
+  journal={arXiv preprint arXiv:2603.13366},
+  year={2026}
 }
 ```
 
