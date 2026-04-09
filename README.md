@@ -14,6 +14,7 @@
 
 ## 🔥 Latest Updates
 
+- **[2026/03]** 🌟 LEAD was selected as a **Highlight**. Thanks to all collaborators!
 - **[2026/01]** 🎉 LEAD was accepted to **CVPR 2026**!
 - **[2026/03]** The code and datasets have been released.
 
